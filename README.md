@@ -8,4 +8,4 @@ I'm an IoT developer on my way to becoming a **backend developer**. My journey i
 <!-- Links to social accounts -->
 [Gmail]: mailto:alexbary98@gmail.com
 [Telegram]: https://t.me/itsnotshura
-[LinkedIn]: https://www.linkedin.com/in/alexander-baryshnikov-b1a464288/
+[LinkedIn]: https://www.linkedin.com/in/itsnotawesome/
